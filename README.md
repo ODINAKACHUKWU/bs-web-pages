@@ -9,3 +9,5 @@ BS-web-pages is composed of simple and advanced web pages built with Bootstrap a
 The tutorials I followed to build the pages can be found here:
 - [MDBootstrap](https://mdbootstrap.com)
 - [bootstrapious](https://bootstrapious.com/p/big-bootstrap-tutorial)
+
+To view deployed site, visit: [https://odinakachukwu.github.io/bs-web-pages/](https://odinakachukwu.github.io/bs-web-pages/)
